@@ -1,2 +1,2 @@
-# eShope-api-nodejs
-ecmmerce api using nodejs and expressjs
+# MERN-blog-app
+Blog app using nodejs and expressjs
